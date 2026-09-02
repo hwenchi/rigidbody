@@ -2,7 +2,7 @@
 
 Live: https://hwenchi.github.io/rigidbody/
 
-## notebooks/ — theory (Pluto.jl)
+## theory.jl (Pluto.jl)
 
 ```sh
 julia --project=. -e 'using Pluto; Pluto.run()'
